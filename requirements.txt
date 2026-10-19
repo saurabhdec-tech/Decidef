@@ -1,0 +1,16 @@
+# Web API and multipart audio uploads
+fastapi
+uvicorn
+python-multipart
+
+# ONNX inference and audio decoding/analysis
+numpy
+onnxruntime
+librosa
+soundfile
+tqdm
+
+# Desktop microphone launcher and browser WebM decoding
+colorama
+PyAudio
+imageio-ffmpeg
